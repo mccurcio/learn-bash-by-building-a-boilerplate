@@ -88,3 +88,4 @@ ls --color=auto
 cp background.jpg images
 ch images/
 cd images
+ls --color=auto
