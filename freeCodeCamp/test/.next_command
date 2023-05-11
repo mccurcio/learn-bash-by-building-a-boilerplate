@@ -137,3 +137,4 @@ cd ..
 ls --color=auto
 mkdir assets/images
 cd assets/images/
+touch background.jpg
