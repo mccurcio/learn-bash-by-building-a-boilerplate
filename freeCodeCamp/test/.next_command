@@ -170,3 +170,5 @@ find -name images
 ls --color=auto
 mv header.png client/assets/images/
 find -name header.png
+__vsc_prompt_cmd_original
+find -name footer.jpeg
