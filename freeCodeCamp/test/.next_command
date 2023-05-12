@@ -138,3 +138,16 @@ ls --color=auto
 mkdir assets/images
 cd assets/images/
 touch background.jpg
+cd ..
+cd ../..
+ls --color=auto
+cd client
+ls --color=auto
+cd assets/
+ls --color=auto
+cd images/
+ls --color=auto
+rm background.jpg
+touch background.jpg
+ls --color=auto
+cd ../../..
