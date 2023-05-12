@@ -167,3 +167,5 @@ find -name src
 find -name images
 cd ../../..
 find -name images
+ls --color=auto
+mv header.png client/assets/images/
