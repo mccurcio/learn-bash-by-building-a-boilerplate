@@ -151,3 +151,5 @@ rm background.jpg
 touch background.jpg
 ls --color=auto
 cd ../../..
+ls --color=auto
+cd images
